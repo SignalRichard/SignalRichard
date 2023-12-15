@@ -1,14 +1,14 @@
 <!--### Hi there 👋-->
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" height="50px" class="display=inline;" class="display=inline;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="50px" class="display=inline;">
-<img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg" height="50px" class="display=inline;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="50px" class="display=inline;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="50px" class="display=inline;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/packer/packer-original.svg" height="50px" class="display=inline;">
-<img src="https://raw.githubusercontent.com/open-policy-agent/opa/main/logo/logo.svg" height="50px" class="display=inline;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="50px" class="display=inline;">
-<img src="./images/stackoverflow-original.svg" height="50px" class="display=inline;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" height="50px" style="display=inline;" style="display=inline;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="50px" style="display=inline;">
+<img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg" height="50px" style="display=inline;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="50px" style="display=inline;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="50px" style="display=inline;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/packer/packer-original.svg" height="50px" style="display=inline;">
+<img src="https://raw.githubusercontent.com/open-policy-agent/opa/main/logo/logo.svg" height="50px" style="display=inline;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="50px" style="display=inline;">
+<img src="./images/stackoverflow-original.svg" height="50px" style="display=inline;">
 
 <!--
 **SignalRichard/SignalRichard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
